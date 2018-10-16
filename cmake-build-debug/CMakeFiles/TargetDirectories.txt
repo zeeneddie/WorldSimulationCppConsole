@@ -1,0 +1,3 @@
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/cmake-build-debug/CMakeFiles/WirtualnySwiat.dir

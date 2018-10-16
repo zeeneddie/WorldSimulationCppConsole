@@ -1,0 +1,272 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Animal.cpp
+Animal.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Animal.h
+../Plants/Plant.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Plant.h
+typeinfo
+-
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Animal.h
+../Organism.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Organism.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Antelope.cpp
+Antelope.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Antelope.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Antelope.h
+Animal.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Animal.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Fox.cpp
+Fox.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Fox.h
+iostream
+-
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Fox.h
+Animal.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Animal.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Human.cpp
+Human.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Human.h
+../Plants/Plant.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Plant.h
+iostream
+-
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Human.h
+../Organism.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Organism.h
+Animal.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Animal.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Sheep.cpp
+Sheep.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Sheep.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Sheep.h
+Animal.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Animal.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Turtle.cpp
+ctime
+-
+Turtle.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Turtle.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Turtle.h
+Animal.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Animal.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Wolf.cpp
+Wolf.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Wolf.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Wolf.h
+Animal.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Animal.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Organism.cpp
+Organism.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Organism.h
+iostream
+-
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Organism.h
+../Utils/Position.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/Position.h
+../World.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/World.h
+../Utils/Commentary.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/Commentary.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Belladonna.cpp
+Belladonna.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Belladonna.h
+../Animals/Animal.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Animal.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Belladonna.h
+Plant.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Plant.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Grass.cpp
+Grass.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Grass.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Grass.h
+Plant.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Plant.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Guarana.cpp
+Guarana.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Guarana.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Guarana.h
+Plant.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Plant.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Plant.cpp
+ctime
+-
+Plant.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Plant.h
+iostream
+-
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Plant.h
+../Organism.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Organism.h
+string
+-
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/SosnowskysHogweed.cpp
+SosnowskysHogweed.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/SosnowskysHogweed.h
+../Animals/Animal.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Animal.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/SosnowskysHogweed.h
+Plant.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Plant.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/SowThistle.cpp
+SowThistle.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/SowThistle.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/SowThistle.h
+../../World.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/World.h
+Plant.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Plant.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/Commentary.cpp
+iostream
+-
+Commentary.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/Commentary.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/Commentary.h
+queue
+-
+string
+-
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/FileWorker.cpp
+fstream
+-
+iostream
+-
+FileWorker.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/FileWorker.h
+../Organisms/Animals/Sheep.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Sheep.h
+../Organisms/Animals/Antelope.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Antelope.h
+../Organisms/Animals/Fox.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Fox.h
+../Organisms/Animals/Human.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Human.h
+../Organisms/Animals/Turtle.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Turtle.h
+../Organisms/Animals/Wolf.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Wolf.h
+../Organisms/Plants/Belladonna.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Belladonna.h
+../Organisms/Plants/Grass.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Grass.h
+../Organisms/Plants/Guarana.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Guarana.h
+../Organisms/Plants/SosnowskysHogweed.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/SosnowskysHogweed.h
+../Organisms/Plants/SowThistle.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/SowThistle.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/FileWorker.h
+../World.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/World.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/Position.cpp
+Position.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/Position.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/Position.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/WorldBoard.cpp
+WorldBoard.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/WorldBoard.h
+Position.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/Position.h
+../Organisms/Organism.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Organism.h
+iostream
+-
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/WorldBoard.h
+Position.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/Position.h
+../Organisms/Organism.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Organism.h
+FileWorker.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/FileWorker.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/World.cpp
+World.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/World.h
+Organisms/Plants/Grass.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Grass.h
+Organisms/Animals/Turtle.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Turtle.h
+Organisms/Animals/Wolf.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Wolf.h
+Organisms/Animals/Sheep.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Sheep.h
+Organisms/Animals/Human.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Human.h
+Organisms/Animals/Fox.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Fox.h
+Organisms/Animals/Antelope.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Animals/Antelope.h
+Organisms/Plants/Guarana.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Guarana.h
+Organisms/Plants/Belladonna.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/Belladonna.h
+Organisms/Plants/SosnowskysHogweed.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/SosnowskysHogweed.h
+Organisms/Plants/SowThistle.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Plants/SowThistle.h
+iostream
+-
+algorithm
+-
+ctime
+-
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/World.h
+vector
+-
+Utils/Position.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/Position.h
+Organisms/Organism.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Organisms/Organism.h
+Utils/Commentary.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/Commentary.h
+Utils/WorldBoard.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/Utils/WorldBoard.h
+
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/main.cpp
+iostream
+-
+World.h
+/home/macias/Downloads/WirtualnySwiat cpp/WirtualnySwiat/com.reszke.maciej.WirtualnySwiat/World.h
+
